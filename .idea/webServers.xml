@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="77d51ecd-3857-45d1-a208-fcc904e4e7d1" name="myVPS">
+        <fileTransfer rootFolder="/home/ilysharusher/htdocs/ilysharusher.online/course_work_lite" accessType="SFTP" host="70.34.254.31" port="22" sshConfigId="dc7edf59-cf55-40b4-9590-a3a57ce69090" sshConfig="ilysharusher@70.34.254.31:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
